@@ -64,11 +64,6 @@ $ npm run test:cov
 Previsão Sp = https://localhost:3000/climate/SaoPaulo
 Previsão Porto Alegre = https://localhost:3000/climate/PortoAlegre
 Previsão Curitiba = https://localhost:3000/climate/Curitiba
-=======
-Previsão Sp = https://localhost:3000/SaoPaulo
-Previsão Porto Alegre = https://localhost:3000/PortoAlegre
-Previsão Curitiba = https://localhost:3000/Curitiba
->>>>>>> be8dbf797b9ae94a9e1c244ee683bccad3ec9b71
 ```
 
 ## Support
